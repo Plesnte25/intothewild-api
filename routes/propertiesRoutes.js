@@ -31,7 +31,7 @@ const {
   addProperty,
   editProperty,
   deleteProperty,
-} = require("../controllers/propertiesController");
+} = require("../controller/propertiesController");
 
 // /api/v1/properties
 router
